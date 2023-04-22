@@ -7,7 +7,8 @@
 
  1. created tests folder
  2. created test_search.py  
-RUN > pipenv run python -m pytest
+    
+    RUN > pipenv run python -m pytest
 
 ## Section 2: Setting Up Selenium WebDriver
  
@@ -15,6 +16,6 @@ RUN > pipenv run python -m pytest
  2. here I didn't followed Andy's approach - used Webdriver Manager for Python instead:
  pipenv install webdriver-manager
 
- RUN > pipenv run python -m pytest
+    RUN > pipenv run python -m pytest
 
 
