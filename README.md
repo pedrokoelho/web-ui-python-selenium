@@ -18,4 +18,11 @@
 
     RUN > pipenv run python -m pytest
 
+## Section 3: Defining Page Objects
+
+ 1.  created a new Python package > pages.
+    - created __init__.py
+    - created search page
+    - created resullts page
+
 
