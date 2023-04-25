@@ -33,5 +33,10 @@
 2. import By class from the module selenium.webdriver.common.by
 3. add the locators to the result page
 
-    pipenv run python -m pytest
+    RUN > pipenv run python -m pytest
 
+## Section 5: Making WebDriver Calls
+
+ 1.  implement all the page object methods  
+
+    RUN > pipenv run python -m pytest
