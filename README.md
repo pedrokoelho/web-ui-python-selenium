@@ -25,4 +25,13 @@
  3.  created search page
  4.  created resullts page
 
+    RUN > pipenv run python -m pytest
+
+## Section 4: Finding Locators for Elements
+
+1. add the search input locator to the search_page
+2. import By class from the module selenium.webdriver.common.by
+3. add the locators to the result page
+
+    pipenv run python -m pytest
 
