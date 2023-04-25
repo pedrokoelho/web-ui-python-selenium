@@ -21,8 +21,8 @@
 ## Section 3: Defining Page Objects
 
  1.  created a new Python package > pages.
-    - created __init__.py
-    - created search page
-    - created resullts page
+ 2.  created __init__.py
+ 3.  created search page
+ 4.  created resullts page
 
 
